@@ -16,4 +16,4 @@ This repository contains reusable Terraform modules for deploying a full AWS 3-t
 
 note - add variable.tf file in the root module and edit the main.tf by creating few requried variables and declare this variables in the varaible.tf file.
 
------>In v1.1.0, vaiable.tf file going to added in the root module
+----->In v1.1.0, vaiable.tf file to be added in root module
